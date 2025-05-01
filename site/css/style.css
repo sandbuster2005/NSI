@@ -1,0 +1,28 @@
+.foot {
+    position: absolute;
+    bottom: 0;
+    font-size: 20px;
+    
+}
+
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  border-radius: 50%;
+  border: 5px solid #0033ff
+} 
+
+
+h2{
+ font-size: 30px;
+ font-family: arial;
+ text-align: center;
+}
+
+p {
+  font-family: Courier New,arial, Helvetica, sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
